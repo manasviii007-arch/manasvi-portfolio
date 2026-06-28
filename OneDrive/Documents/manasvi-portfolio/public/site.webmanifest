@@ -1,0 +1,16 @@
+{
+  "name": "Manasvi Chugh — Portfolio",
+  "short_name": "Manasvi",
+  "description": "Product Thinker & AI Builder",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
