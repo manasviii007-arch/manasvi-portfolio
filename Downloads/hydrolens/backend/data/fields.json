@@ -1,0 +1,67 @@
+[
+    {
+        "field_id": "Field 024",
+        "latitude": 36.81,
+        "longitude": -119.78,
+        "crop": "Wheat",
+        "growth_stage": "Flowering",
+        "soil_moisture": 14.0,
+        "temperature": 34.0,
+        "rainfall_probability": 16.0,
+        "ndvi": 0.65,
+        "water_availability": 1200.0,
+        "solar_availability": 6.2
+    },
+    {
+        "field_id": "Field 087",
+        "latitude": 36.83,
+        "longitude": -119.75,
+        "crop": "Maize",
+        "growth_stage": "Grain Fill",
+        "soil_moisture": 10.0,
+        "temperature": 35.0,
+        "rainfall_probability": 10.0,
+        "ndvi": 0.55,
+        "water_availability": 900.0,
+        "solar_availability": 6.5
+    },
+    {
+        "field_id": "Field 041",
+        "latitude": 36.79,
+        "longitude": -119.81,
+        "crop": "Cotton",
+        "growth_stage": "Vegetative",
+        "soil_moisture": 22.0,
+        "temperature": 32.0,
+        "rainfall_probability": 20.0,
+        "ndvi": 0.72,
+        "water_availability": 1500.0,
+        "solar_availability": 6.0
+    },
+    {
+        "field_id": "Field 109",
+        "latitude": 36.82,
+        "longitude": -119.82,
+        "crop": "Soybeans",
+        "growth_stage": "Pod Initiation",
+        "soil_moisture": 34.0,
+        "temperature": 30.0,
+        "rainfall_probability": 25.0,
+        "ndvi": 0.81,
+        "water_availability": 2200.0,
+        "solar_availability": 5.8
+    },
+    {
+        "field_id": "Field 055",
+        "latitude": 36.80,
+        "longitude": -119.76,
+        "crop": "Alfalfa",
+        "growth_stage": "Cut Cycle 3",
+        "soil_moisture": 12.0,
+        "temperature": 36.0,
+        "rainfall_probability": 12.0,
+        "ndvi": 0.60,
+        "water_availability": 1100.0,
+        "solar_availability": 6.4
+    }
+]
